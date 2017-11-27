@@ -1,0 +1,340 @@
+{
+  "head": {},
+  "en-ru": {
+    "regular": [
+      {
+        "text": "word",
+        "pos": {
+          "code": "nn",
+          "text": "noun"
+        },
+        "ts": "wɜːd",
+        "tr": [
+          {
+            "text": "слово",
+            "pos": {
+              "code": "nn",
+              "text": "noun"
+            },
+            "gen": {
+              "code": "n",
+              "text": "ср"
+            },
+            "syn": [
+              {
+                "text": "речь",
+                "pos": {
+                  "code": "nn",
+                  "text": "noun"
+                },
+                "gen": {
+                  "code": "f",
+                  "text": "ж"
+                }
+              },
+              {
+                "text": "словечко",
+                "pos": {
+                  "code": "nn",
+                  "text": "noun"
+                },
+                "gen": {
+                  "code": "n",
+                  "text": "ср"
+                }
+              },
+              {
+                "text": "разговор",
+                "pos": {
+                  "code": "nn",
+                  "text": "noun"
+                },
+                "gen": {
+                  "code": "m",
+                  "text": "м"
+                }
+              }
+            ],
+            "mean": [
+              {
+                "text": "speech"
+              },
+              {
+                "text": "words"
+              },
+              {
+                "text": "conversation"
+              }
+            ],
+            "ex": [
+              {
+                "text": "last word",
+                "tr": [
+                  {
+                    "text": "последнее слово"
+                  }
+                ]
+              },
+              {
+                "text": "old english word",
+                "tr": [
+                  {
+                    "text": "старое английское слово"
+                  }
+                ]
+              },
+              {
+                "text": "new word in art",
+                "tr": [
+                  {
+                    "text": "новое слово в искусстве"
+                  }
+                ]
+              },
+              {
+                "text": "sure word of prophecy",
+                "tr": [
+                  {
+                    "text": "пророческое слово"
+                  }
+                ]
+              },
+              {
+                "text": "part of that word",
+                "tr": [
+                  {
+                    "text": "часть этого слова"
+                  }
+                ]
+              },
+              {
+                "text": "man of his word",
+                "tr": [
+                  {
+                    "text": "человек слова"
+                  }
+                ]
+              },
+              {
+                "text": "strong word",
+                "tr": [
+                  {
+                    "text": "крепкое словечко"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "известие",
+            "pos": {
+              "code": "nn",
+              "text": "noun"
+            },
+            "gen": {
+              "code": "n",
+              "text": "ср"
+            },
+            "syn": [
+              {
+                "text": "сообщение",
+                "pos": {
+                  "code": "nn",
+                  "text": "noun"
+                },
+                "gen": {
+                  "code": "n",
+                  "text": "ср"
+                }
+              }
+            ],
+            "mean": [
+              {
+                "text": "news"
+              },
+              {
+                "text": "message"
+              }
+            ]
+          },
+          {
+            "text": "текст",
+            "pos": {
+              "code": "nn",
+              "text": "noun"
+            },
+            "gen": {
+              "code": "m",
+              "text": "м"
+            },
+            "mean": [
+              {
+                "text": "text"
+              }
+            ]
+          },
+          {
+            "text": "обещание",
+            "pos": {
+              "code": "nn",
+              "text": "noun"
+            },
+            "gen": {
+              "code": "n",
+              "text": "ср"
+            },
+            "mean": [
+              {
+                "text": "promise"
+              }
+            ]
+          },
+          {
+            "text": "замечание",
+            "pos": {
+              "code": "nn",
+              "text": "noun"
+            },
+            "gen": {
+              "code": "n",
+              "text": "ср"
+            },
+            "mean": [
+              {
+                "text": "comment"
+              }
+            ]
+          },
+          {
+            "text": "пароль",
+            "pos": {
+              "code": "nn",
+              "text": "noun"
+            },
+            "gen": {
+              "code": "m",
+              "text": "м"
+            },
+            "mean": [
+              {
+                "text": "password"
+              }
+            ]
+          },
+          {
+            "text": "девиз",
+            "pos": {
+              "code": "nn",
+              "text": "noun"
+            },
+            "gen": {
+              "code": "m",
+              "text": "м"
+            },
+            "syn": [
+              {
+                "text": "лозунг",
+                "pos": {
+                  "code": "nn",
+                  "text": "noun"
+                },
+                "gen": {
+                  "code": "m",
+                  "text": "м"
+                }
+              }
+            ],
+            "mean": [
+              {
+                "text": "motto"
+              },
+              {
+                "text": "slogan"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "word",
+        "pos": {
+          "code": "vrb",
+          "text": "verb"
+        },
+        "ts": "wɜːd",
+        "tr": [
+          {
+            "text": "говорить",
+            "pos": {
+              "code": "vrb",
+              "text": "verb"
+            },
+            "asp": {
+              "code": "im",
+              "text": "несов"
+            },
+            "mean": [
+              {
+                "text": "say"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "word",
+        "pos": {
+          "code": "adj",
+          "text": "adjective"
+        },
+        "ts": "wɜːd",
+        "tr": [
+          {
+            "text": "текстовый",
+            "pos": {
+              "code": "adj",
+              "text": "adjective"
+            },
+            "mean": [
+              {
+                "text": "text"
+              }
+            ],
+            "ex": [
+              {
+                "text": "word processing document",
+                "tr": [
+                  {
+                    "text": "текстовый документ"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "словесный",
+            "pos": {
+              "code": "adj",
+              "text": "adjective"
+            },
+            "mean": [
+              {
+                "text": "verbal"
+              }
+            ],
+            "ex": [
+              {
+                "text": "word game",
+                "tr": [
+                  {
+                    "text": "словесная игра"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
